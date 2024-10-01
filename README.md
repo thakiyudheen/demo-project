@@ -2,6 +2,12 @@
 
 This e-learning platform allows students to purchase courses, chat with instructors, participate in video calls, take exams, and earn certificates upon course completion.
 
+The platform is built using the MERN stack (MongoDB, Express, React, and Node.js) and follows a microservices architecture, ensuring scalability and maintainability. It also implements clean architecture principles to separate concerns and improve code organization.
+
+For real-time communication, the platform uses WebSocket for chat functionality and WebRTC with PeerJS for video calls, enabling seamless interaction between students and instructors.
+
+Security is handled with JWT-based authentication, using both access and refresh tokens to ensure secure and efficient user sessions.
+
 ## Features
 
 ### 1. Homepage
