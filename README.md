@@ -45,6 +45,7 @@ Students and instructors can engage through a chat system and video call functio
 ### 8. Subscription and Payment
 Students can purchase individual courses or subscribe to multiple courses through a secure payment gateway.
 
+![Stripe Payment Course 1](images/subscription.png)
 ![Stripe Payment Course 1](images/stripePaymentCourse1.png)
 ![Stripe Payment Course 2](images/stripePaymentCourse2.png)
 
