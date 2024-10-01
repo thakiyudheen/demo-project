@@ -35,6 +35,7 @@ Students can view their enrolled courses and continue learning from the dashboar
 ### 6. Assessments and Exams
 Students can take assessments and exams throughout the course.
 
+![Assessment](images/addExam.png)
 ![Assessment](images/assessment.png)
 
 ### 7. Chat and Video Call
